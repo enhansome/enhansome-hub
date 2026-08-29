@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "科技爱好者周刊，每周五发布",
+            "homepage": null,
             "id": 152870372,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T15:22:35Z",
+            "open_issues": 8855,
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101479
+            "stars": 101499,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "好用的工具、资源收集库， 好记性不如破键盘",
+            "homepage": null,
             "id": 21263567,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-15T09:31:30Z",
+            "open_issues": 0,
             "owner": "YuniorZen",
             "repo": "hub",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "awesome-list",
+              "blockchain",
+              "python",
+              "tool",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -48,12 +64,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+            "homepage": "https://comma.ai/openpilot",
             "id": 74627617,
             "language": "Python",
-            "last_commit": "2026-08-28T20:38:09Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:09:03Z",
+            "open_issues": 130,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63527
+            "stars": 63527,
+            "topics": [
+              "advanced-driver-assistance-systems",
+              "driver-assistance-systems",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -64,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+            "homepage": null,
             "id": 319029846,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T14:10:25Z",
+            "open_issues": 7,
             "owner": "spipm",
             "repo": "Depixelization_poc",
-            "stars": 4550
+            "stars": 4550,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -80,12 +110,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Best Karaoke Maker",
+            "homepage": "https://www.youka.club/",
             "id": 244241236,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-25T07:56:14Z",
+            "open_issues": 0,
             "owner": "youkaclub",
             "repo": "youka-desktop",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "ai",
+              "karaoke",
+              "music"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -96,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 251262566,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-20T18:51:56Z",
+            "open_issues": 51,
             "owner": "yemount",
             "repo": "pose-animator",
-            "stars": 8852
+            "stars": 8852,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -112,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+            "homepage": null,
             "id": 253601257,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-30T23:48:03Z",
+            "open_issues": 318,
             "owner": "alievk",
             "repo": "avatarify-python",
-            "stars": 16515
+            "stars": 16515,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -128,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cats of Jasnah, a game for learning categories and logic",
+            "homepage": null,
             "id": 229992640,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-09T19:12:22Z",
+            "open_issues": 1,
             "owner": "countable",
             "repo": "cats-of-jasnah",
-            "stars": 198
+            "stars": 198,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -144,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate the Nokia picture for fun! 1k star  🥳  🥳  🥳",
+            "homepage": "https://zzkia.noddl.me",
             "id": 214194760,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-08T08:51:39Z",
+            "open_issues": 12,
             "owner": "dcalsky",
             "repo": "zzkia",
-            "stars": 1473
+            "stars": 1473,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -160,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 152852645,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-09-07T05:04:41Z",
+            "open_issues": 3,
             "owner": "sologgfun",
             "repo": "drinkNow",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -176,12 +240,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A High-Quality Real Time Upscaler for Anime Video",
+            "homepage": "https://bloc97.github.io/Anime4K/",
             "id": 202234517,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-17T12:09:12Z",
+            "open_issues": 123,
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21297
+            "stars": 21297,
+            "topics": [
+              "anime",
+              "anime-upscaling",
+              "anime4k",
+              "cnn",
+              "computer-graphics",
+              "convolutional-neural-networks",
+              "denoising-algorithms",
+              "neural-networks",
+              "super-resolution",
+              "upsampling",
+              "upscaling",
+              "video",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -192,12 +275,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Blockchain for the 996 evidence",
+            "homepage": null,
             "id": 205662707,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-31T02:55:26Z",
+            "open_issues": 0,
             "owner": "996BC",
             "repo": "996.Blockchain",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "996",
+              "blockchain",
+              "evidence",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -208,12 +301,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👀Blink and lose.",
+            "homepage": null,
             "id": 190750590,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-22T03:51:53Z",
+            "open_issues": 7,
             "owner": "ByronHsu",
             "repo": "Never-Blink",
-            "stars": 899
+            "stars": 899,
+            "topics": [
+              "blink",
+              "flask",
+              "game",
+              "peerjs",
+              "react",
+              "socketio",
+              "video-streaming"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -224,12 +330,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualizing JavaScript source code as navigable 3D cities",
+            "homepage": null,
             "id": 37922354,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2019-11-03T21:47:23Z",
+            "open_issues": 4,
             "owner": "aserg-ufmg",
             "repo": "JSCity",
-            "stars": 1400
+            "stars": 1400,
+            "topics": [
+              "code-city",
+              "data-visualization",
+              "javascript-tools",
+              "software-visualization"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -240,12 +356,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+            "homepage": null,
             "id": 120246942,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-26T08:52:43Z",
+            "open_issues": 38,
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11659
+            "stars": 11660,
+            "topics": [
+              "chinese",
+              "chinese-characters",
+              "chinese-language",
+              "chinese-nlp",
+              "chinese-simplified",
+              "chinese-traditional",
+              "data",
+              "json",
+              "json-data",
+              "json-dataset",
+              "python3",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -256,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python app to turn a photograph into a cartoon",
+            "homepage": null,
             "id": 114759717,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-07T23:51:56Z",
+            "open_issues": 28,
             "owner": "danmacnish",
             "repo": "cartoonify",
-            "stars": 2052
+            "stars": 2052,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -272,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ ",
+            "homepage": "https://zhuanlan.zhihu.com/p/37365182",
             "id": 135050068,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-03T21:08:46Z",
+            "open_issues": 65,
             "owner": "wangshub",
             "repo": "Douyin-Bot",
-            "stars": 9632
+            "stars": 9632,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -288,12 +432,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Generate an image of all your Github contributions",
+            "homepage": "https://github-contributions.vercel.app",
             "id": 131506479,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-20T15:05:46Z",
+            "open_issues": 34,
             "owner": "sallar",
             "repo": "github-contributions-chart",
-            "stars": 5605
+            "stars": 5605,
+            "topics": [
+              "contributions",
+              "contributions-chart",
+              "github",
+              "octocat"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -304,12 +458,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant Stack Overflow results whenever an exception is thrown",
+            "homepage": null,
             "id": 123230580,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-16T15:15:53Z",
+            "open_issues": 24,
             "owner": "shobrook",
             "repo": "rebound",
-            "stars": 4114
+            "stars": 4114,
+            "topics": [
+              "command-line-interface",
+              "command-line-tool",
+              "error-messages",
+              "python",
+              "stackoverflow",
+              "terminal-app"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -320,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A low-level browser automation framework built on top of the Web Extensions API standard.",
+            "homepage": null,
             "id": 124411852,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-14T22:44:50Z",
+            "open_issues": 8,
             "owner": "intoli",
             "repo": "remote-browser",
-            "stars": 1750
+            "stars": 1750,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -342,12 +513,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome browser extension that reads aloud webpage content with one click",
+            "homepage": "https://readaloud.app",
             "id": 70820054,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-10T10:11:23Z",
+            "open_issues": 132,
             "owner": "ken107",
             "repo": "read-aloud",
-            "stars": 1730
+            "stars": 1730,
+            "topics": [
+              "accessibility",
+              "browser-addon",
+              "browser-extension",
+              "chrome-extension",
+              "chrome-extensions",
+              "chromium-extension",
+              "edge-extension",
+              "firefox-addon",
+              "firefox-extension",
+              "firefox-extensions",
+              "page-reader",
+              "text-to-speech",
+              "webextension",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -358,12 +549,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "实现推送消息到微信个人和群",
+            "homepage": null,
             "id": 387112745,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-06T08:51:14Z",
+            "open_issues": 2,
             "owner": "tans",
             "repo": "push-bot",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "bot",
+              "push-notifications",
+              "pusher",
+              "wechaty"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -374,12 +575,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+            "homepage": "https://gourav.io/clone-wars",
             "id": 317836248,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2024-08-06T12:31:36Z",
+            "open_issues": 38,
             "owner": "GorvGoyl",
             "repo": "Clone-Wars",
-            "stars": 36664
+            "stars": 36665,
+            "topics": [
+              "airbnb",
+              "clone",
+              "instagram",
+              "netflix",
+              "reddit",
+              "spotify",
+              "tiktok",
+              "twitter",
+              "whatsapp"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -390,12 +606,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)",
+            "homepage": "https://bing.wdbyte.com",
             "id": 337010561,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:02:27Z",
+            "open_issues": 4,
             "owner": "niumoo",
             "repo": "bing-wallpaper",
-            "stars": 3692
+            "stars": 3692,
+            "topics": [
+              "bing",
+              "bing-image",
+              "bing-wallpaper",
+              "wallpaper"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -406,12 +632,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📦 Command line peer-to-peer data transfer tool based on libp2p.",
+            "homepage": null,
             "id": 330759999,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-02T15:57:37Z",
+            "open_issues": 19,
             "owner": "dennis-tra",
             "repo": "pcp",
-            "stars": 1099
+            "stars": 1099,
+            "topics": [
+              "cli",
+              "data-transfer",
+              "dht",
+              "file-sharing",
+              "hacktoberfest",
+              "ipfs",
+              "libp2p",
+              "mdns",
+              "pake",
+              "peer-to-peer"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -422,12 +664,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search inside YouTube videos using natural language ",
+            "homepage": null,
             "id": 335095422,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-10-15T10:44:05Z",
+            "open_issues": 4,
             "owner": "haltakov",
             "repo": "natural-language-youtube-search",
-            "stars": 935
+            "stars": 935,
+            "topics": [
+              "clip",
+              "computer-vision",
+              "machine-learning",
+              "search",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -438,12 +691,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "homepage": "https://codecrafters.io",
             "id": 132750724,
             "language": "Markdown",
+            "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
+            "open_issues": 639,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543677
+            "stars": 543744,
+            "topics": [
+              "awesome-list",
+              "free",
+              "programming",
+              "tutorial-code",
+              "tutorial-exercises",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -454,12 +719,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "comment engine",
+            "homepage": "https://remark42.com",
             "id": 114829503,
             "language": "Go",
-            "last_commit": "2026-08-28T10:54:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:20:10Z",
+            "open_issues": 100,
             "owner": "umputun",
             "repo": "remark42",
-            "stars": 5592
+            "stars": 5592,
+            "topics": [
+              "comment-system",
+              "commenting",
+              "commenting-engines",
+              "comments-widget",
+              "privacy",
+              "remark42",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -470,12 +748,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+            "homepage": "https://archivebox.io",
             "id": 90356372,
             "language": "Python",
-            "last_commit": "2026-08-28T21:25:49Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:54:11Z",
+            "open_issues": 159,
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28199
+            "stars": 28198,
+            "topics": [
+              "archivebox",
+              "backups",
+              "bookmark-archiver",
+              "browser-bookmarks",
+              "chromium",
+              "digipres",
+              "firefox",
+              "headless-browser",
+              "internet-archiving",
+              "pinboard",
+              "pocket",
+              "python",
+              "rss",
+              "self-hosted",
+              "singlefile",
+              "warc",
+              "wayback-machine",
+              "web-archiving",
+              "wget",
+              "youtube-dl"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -486,12 +790,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faster than the fastest in the world pixel-by-pixel image difference tool.",
+            "homepage": null,
             "id": 320848715,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-03-25T08:02:58Z",
+            "open_issues": 2,
             "owner": "n7olkachev",
             "repo": "imgdiff",
-            "stars": 1706
+            "stars": 1706,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -502,12 +811,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform network media aggregation application",
+            "homepage": "https://livebox.parzulpan.cn",
             "id": 272427828,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-22T10:19:58Z",
+            "open_issues": 1,
             "owner": "parzulpan",
             "repo": "livebox",
-            "stars": 1064
+            "stars": 1064,
+            "topics": [
+              "cross-platform",
+              "electron",
+              "hdtv",
+              "live",
+              "live-video",
+              "livebox",
+              "livestream",
+              "media",
+              "radio-station",
+              "service-mesh"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -518,12 +843,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Free group video call for the web. No signups. No downloads.",
+            "homepage": null,
             "id": 246220204,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T17:09:22Z",
+            "open_issues": 2,
             "owner": "vasanthv",
             "repo": "ahey",
-            "stars": 4192
+            "stars": 4192,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -534,12 +864,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacker News daily top 10 posts",
+            "homepage": "https://github.com/headllines/hackernews-daily/issues",
             "id": 285468156,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-19T23:28:10Z",
+            "open_issues": 2222,
             "owner": "headllines",
             "repo": "hackernews-daily",
-            "stars": 690
+            "stars": 690,
+            "topics": [
+              "hackernews",
+              "headline-collectors",
+              "rss"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -550,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take a picture of code and run it",
+            "homepage": "https://twitter.com/SergeiChestakov/status/1289726580210561025?s=20",
             "id": 284363118,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-05T09:10:13Z",
+            "open_issues": 13,
             "owner": "sergeichestakov",
             "repo": "snapcode",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -566,12 +910,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+            "homepage": "https://www.jaided.ai",
             "id": 247266215,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-05T12:23:12Z",
+            "open_issues": 530,
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29945
+            "stars": 29947,
+            "topics": [
+              "cnn",
+              "crnn",
+              "data-mining",
+              "deep-learning",
+              "easyocr",
+              "image-processing",
+              "information-retrieval",
+              "lstm",
+              "machine-learning",
+              "ocr",
+              "optical-character-recognition",
+              "python",
+              "pytorch",
+              "scene-text",
+              "scene-text-recognition"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -582,12 +947,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "**ARCHIVED** Self-hosted file storage",
+            "homepage": null,
             "id": 5634276,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-10-18T13:51:35Z",
+            "open_issues": 90,
             "owner": "silverwind",
             "repo": "droppy",
-            "stars": 1621
+            "stars": 1621,
+            "topics": [
+              "cloud-storage",
+              "codemirror",
+              "file-server",
+              "image-gallery",
+              "media-server",
+              "nodejs",
+              "plyr",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -598,12 +977,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+            "homepage": "https://beta.monicahq.com",
             "id": 82238168,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-24T19:52:26Z",
+            "open_issues": 794,
             "owner": "monicahq",
             "repo": "monica",
-            "stars": 25128
+            "stars": 25130,
+            "topics": [
+              "crm",
+              "family",
+              "friends",
+              "hacktoberfest",
+              "laravel",
+              "php",
+              "prm",
+              "social"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -614,12 +1007,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chrome二维码插件",
+            "homepage": null,
             "id": 209944246,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-12-11T06:38:52Z",
+            "open_issues": 20,
             "owner": "tanghuibo",
             "repo": "qrcode-chrome-plugin",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "chrome",
+              "javascript",
+              "js",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -630,12 +1033,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fuzzy and semantic search for captioned YouTube videos.",
+            "homepage": null,
             "id": 205099383,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-08T06:05:45Z",
+            "open_issues": 6,
             "owner": "RameshAditya",
             "repo": "scoper",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "fuzzy-search",
+              "machine-learning",
+              "ml",
+              "nlp",
+              "search",
+              "search-algorithm",
+              "semantic",
+              "youtube",
+              "youtube-api"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -646,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "科技爱好者周刊，每周五发布",
+            "homepage": null,
             "id": 152870372,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T15:22:35Z",
+            "open_issues": 8855,
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101479
+            "stars": 101499,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -662,12 +1085,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create graphics with a hand-drawn, sketchy, appearance",
+            "homepage": "http://roughjs.com",
             "id": 76342242,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-07-28T21:12:58Z",
+            "open_issues": 42,
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21146
+            "stars": 21147,
+            "topics": [
+              "canvas",
+              "draw",
+              "graphics",
+              "html5-canvas",
+              "svg",
+              "svg-path"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -678,12 +1113,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package for doing RPA",
+            "homepage": null,
             "id": 178592227,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T17:52:52Z",
+            "open_issues": 4,
             "owner": "tebelorg",
             "repo": "RPA-Python",
-            "stars": 5494
+            "stars": 5494,
+            "topics": [
+              "cross-platform",
+              "opencv",
+              "python",
+              "rpa",
+              "sikuli",
+              "tagui",
+              "tesseract"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -694,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":arrow_double_down: Dumb downloader that scrapes the web",
+            "homepage": "https://you-get.org/",
             "id": 5483330,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:23:27Z",
+            "open_issues": 386,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56870
+            "stars": 56870,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -710,12 +1163,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sync Twitter's timeline to Facebook's.",
+            "homepage": null,
             "id": 157260029,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-07T19:36:26Z",
+            "open_issues": 1,
             "owner": "gslin",
             "repo": "twitter2facebook",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "facebook",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -726,12 +1187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant and elegant Markdown documents in the browser",
+            "homepage": "http://strapdownjs.com",
             "id": 5394041,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-06-15T19:24:35Z",
+            "open_issues": 64,
             "owner": "arturadib",
             "repo": "strapdown",
-            "stars": 2462
+            "stars": 2462,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -742,12 +1208,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for conversion between Traditional and Simplified Chinese",
+            "homepage": "https://opencc.byvoid.com/",
             "id": 776621,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T04:41:40Z",
+            "open_issues": 50,
             "owner": "BYVoid",
             "repo": "OpenCC",
-            "stars": 9943
+            "stars": 9943,
+            "topics": [
+              "chinese",
+              "chinese-conversion",
+              "chinese-translation",
+              "simplified-chinese",
+              "traditional-chinese"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -758,12 +1235,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Camelot: PDF Table Extraction for Humans",
+            "homepage": "https://camelot-py.readthedocs.io",
             "id": 61431113,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-05T15:25:42Z",
+            "open_issues": 117,
             "owner": "atlanhq",
             "repo": "camelot",
-            "stars": 3716
+            "stars": 3716,
+            "topics": [
+              "extract",
+              "for-humans",
+              "pdf",
+              "table"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -774,12 +1261,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📻 Webserver for downloading youtube videos. Ready for docker.",
+            "homepage": null,
             "id": 59816540,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-22T16:30:11Z",
+            "open_issues": 42,
             "owner": "Algram",
             "repo": "ytdl-webserver",
-            "stars": 1444
+            "stars": 1444,
+            "topics": [
+              "docker",
+              "download-youtube-videos",
+              "webserver"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -790,12 +1286,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-Hosted Bookmark And Archive Manager",
+            "homepage": null,
             "id": 141798743,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-04-23T00:58:56Z",
+            "open_issues": 27,
             "owner": "kanishka-linux",
             "repo": "reminiscence",
-            "stars": 1855
+            "stars": 1855,
+            "topics": [
+              "archive",
+              "bookmark",
+              "bookmark-manager",
+              "bookmarks",
+              "django",
+              "self-hosted",
+              "selfhosted"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -806,12 +1315,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.",
+            "homepage": null,
             "id": 196959890,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-03T16:38:02Z",
+            "open_issues": 17,
             "owner": "TachibanaYoshino",
             "repo": "AnimeGAN",
-            "stars": 4607
+            "stars": 4607,
+            "topics": [
+              "anime-images",
+              "animegan",
+              "hayao-style",
+              "photo-animation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -822,12 +1342,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create PDF documents using web technologies",
+            "homepage": null,
             "id": 126147399,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2025-09-07T14:41:05Z",
+            "open_issues": 52,
             "owner": "RelaxedJS",
             "repo": "ReLaXed",
-            "stars": 11798
+            "stars": 11798,
+            "topics": [
+              "chromium",
+              "converter",
+              "html",
+              "pdf-document",
+              "pug",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -844,12 +1376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finally, a \"back to top\" button that behaves like a real elevator. ",
+            "homepage": "http://tholman.com/elevator.js",
             "id": 33821984,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-26T15:20:00Z",
+            "open_issues": 19,
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6637
+            "stars": 6637,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -860,12 +1397,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "在线动态字体裁剪服务，毫秒级动态裁剪，极致流量节约与字体美学呈现。",
+            "homepage": "https://webfont.shenzilong.cn",
             "id": 248674113,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-26T23:57:43Z",
+            "open_issues": 0,
             "owner": "2234839",
             "repo": "web-font",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "fontmin",
+              "ttf",
+              "web-font"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -876,12 +1422,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dancer: Look at me, I am a slim progress bar and very colorful / 支持彩色或单色的顶部进度条",
+            "homepage": "https://vortesnail.github.io/qier-progress/",
             "id": 238699546,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T10:02:07Z",
+            "open_issues": 14,
             "owner": "vortesnail",
             "repo": "qier-progress",
-            "stars": 406
+            "stars": 406,
+            "topics": [
+              "progress",
+              "progress-bar",
+              "qier-progress",
+              "qprogress"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -892,12 +1448,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 A React Framework for building extensible drag and drop page editors",
+            "homepage": "https://craft.js.org",
             "id": 190254698,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-14T09:25:28Z",
+            "open_issues": 227,
             "owner": "prevwong",
             "repo": "craft.js",
-            "stars": 8732
+            "stars": 8734,
+            "topics": [
+              "draft-js",
+              "drag-and-drop",
+              "html-builder",
+              "page-builder",
+              "react",
+              "site-builder",
+              "web-builder",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -908,12 +1478,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "『臆病な魔女は、Webサイトに魔法をかけた。』",
+            "homepage": "https://yui540.graphics",
             "id": 141096534,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-08-26T15:57:36Z",
+            "open_issues": 5,
             "owner": "yui540",
             "repo": "Cowardly-Witch",
-            "stars": 1007
+            "stars": 1007,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -924,12 +1499,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Less Formal CSS Framework",
+            "homepage": "https://getpapercss.com",
             "id": 101221093,
             "language": "SCSS",
+            "license": "ISC",
             "last_commit": "2025-07-31T15:54:36Z",
+            "open_issues": 36,
             "owner": "papercss",
             "repo": "papercss",
-            "stars": 4194
+            "stars": 4194,
+            "topics": [
+              "css",
+              "html",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -940,12 +1524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.",
+            "homepage": "http://jimp-dev.github.io/jimp/",
             "id": 24008065,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-07T17:55:29Z",
+            "open_issues": 186,
             "owner": "jimp-dev",
             "repo": "jimp",
-            "stars": 14666
+            "stars": 14666,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -956,12 +1545,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, private file sharing from the makers of Firefox",
+            "homepage": "https://send.firefox.com",
             "id": 92104803,
             "language": "FreeMarker",
+            "license": "MPL-2.0",
             "last_commit": "2021-05-21T21:29:10Z",
+            "open_issues": 156,
             "owner": "mozilla",
             "repo": "send",
-            "stars": 13250
+            "stars": 13250,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -972,12 +1566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solve and generate mazes in JS",
+            "homepage": "https://dmaydan.github.io/Maze_Solver_Generator/",
             "id": 167784934,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-07-28T08:35:28Z",
+            "open_issues": 1,
             "owner": "dmaydan",
             "repo": "Maze_Solver_Generator",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -988,12 +1587,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":nut_and_bolt: A relentless key-value store for the browser.",
+            "homepage": null,
             "id": 154541438,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-18T19:04:18Z",
+            "open_issues": 39,
             "owner": "gruns",
             "repo": "ImmortalDB",
-            "stars": 3058
+            "stars": 3058,
+            "topics": [
+              "cookies",
+              "database",
+              "indexeddb",
+              "javascript",
+              "key-value",
+              "key-value-database",
+              "key-value-store",
+              "library",
+              "localstorage",
+              "sessionstorage",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1004,12 +1620,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Futuristic Sci-Fi UI Web Framework.",
+            "homepage": null,
             "id": 28944251,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-05T22:31:39Z",
+            "open_issues": 10,
             "owner": "arwes",
             "repo": "arwes",
-            "stars": 7556
+            "stars": 7556,
+            "topics": [
+              "arwes",
+              "cyberprep",
+              "framework",
+              "gui",
+              "react",
+              "retrowave",
+              "sci-fi",
+              "science-fiction",
+              "scifi",
+              "solarpunk",
+              "synthwave",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1020,12 +1654,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript framework for visual programming",
+            "homepage": "https://retejs.org",
             "id": 83434501,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T04:24:16Z",
+            "open_issues": 14,
             "owner": "retejs",
             "repo": "rete",
-            "stars": 12228
+            "stars": 12228,
+            "topics": [
+              "dataflow-programming",
+              "flow-based-programming",
+              "graph-editor",
+              "node-editor",
+              "standwithukraine",
+              "visual-programming"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1036,12 +1682,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bursting particle effect buttons for React 🎉",
+            "homepage": "https://transitive-bullshit.github.io/react-particle-effect-button/",
             "id": 131501807,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-26T21:23:35Z",
+            "open_issues": 5,
             "owner": "transitive-bullshit",
             "repo": "react-particle-effect-button",
-            "stars": 1506
+            "stars": 1506,
+            "topics": [
+              "button",
+              "canvas",
+              "codrops",
+              "particles",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1052,12 +1709,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.",
+            "homepage": "https://wiredjs.com",
             "id": 101609772,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-07T20:59:18Z",
+            "open_issues": 36,
             "owner": "rough-stuff",
             "repo": "wired-elements",
-            "stars": 10829
+            "stars": 10829,
+            "topics": [
+              "lit-element",
+              "lit-html",
+              "prototyping",
+              "web-components",
+              "webcomponents",
+              "wireframe",
+              "wireframes"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1068,12 +1738,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "homepage": null,
             "id": 126577260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
+            "open_issues": 404,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196575
+            "stars": 196576,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "javascript-algorithms"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1084,12 +1768,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript port of TLSH (Trend Micro Locality Sensitive Hash)",
+            "homepage": null,
             "id": 57990358,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-09T18:30:28Z",
+            "open_issues": 6,
             "owner": "idealista",
             "repo": "tlsh-js",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "digest",
+              "hash",
+              "javascript",
+              "locality-sensitive-hashing",
+              "nodejs",
+              "tlsh"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1100,12 +1796,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tips to help take your CSS skills pro. 🕹 ",
+            "homepage": null,
             "id": 41592744,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-24T23:08:38Z",
+            "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30262
+            "stars": 30262,
+            "topics": [
+              "accessibility",
+              "awesome-list",
+              "best-practices",
+              "cheatsheet",
+              "css",
+              "css-tips",
+              "css-tricks",
+              "css3",
+              "flexbox",
+              "frontend",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1116,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replace <img /> elements with <img-2> to automatically pre-cache images and improve page performance.",
+            "homepage": null,
             "id": 113762076,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2018-05-22T16:11:30Z",
+            "open_issues": 7,
             "owner": "RevillWeb",
             "repo": "img-2",
-            "stars": 1881
+            "stars": 1881,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -1138,12 +1856,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn shell commands into web services",
+            "homepage": null,
             "id": 290097047,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-09-27T00:12:40Z",
+            "open_issues": 0,
             "owner": "beefsack",
             "repo": "webify",
-            "stars": 961
+            "stars": 961,
+            "topics": [
+              "function",
+              "serverless",
+              "shell",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1154,12 +1882,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 scrapy-redis 的通用分布式爬虫框架",
+            "homepage": null,
             "id": 262529259,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-31T14:54:24Z",
+            "open_issues": 7,
             "owner": "TurboWay",
             "repo": "spiderman",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "hbase",
+              "hive",
+              "kafka",
+              "rdbm",
+              "scapy-redis",
+              "scrapy",
+              "spiderman"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1170,12 +1911,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple Website Screenshots as a Service (Django, Selenium, Docker, Docker-compose)",
+            "homepage": null,
             "id": 236864986,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-09T01:53:06Z",
+            "open_issues": 14,
             "owner": "simplecto",
             "repo": "screenshots",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "django",
+              "docker",
+              "python",
+              "screenshot-as-a-service",
+              "screenshots",
+              "selenium",
+              "worker-processes"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1186,12 +1940,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete web conferencing system for virtual classes and more!",
+            "homepage": "https://bigbluebutton.org",
             "id": 684382,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T20:42:20Z",
+            "open_issues": 717,
             "owner": "bigbluebutton",
             "repo": "bigbluebutton",
-            "stars": 9202
+            "stars": 9202,
+            "topics": [
+              "bigbluebutton",
+              "collaboration",
+              "conferencing",
+              "video",
+              "video-conferencing",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1202,12 +1968,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Modern URL Shortener.",
+            "homepage": "https://kutt.to",
             "id": 121380371,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T09:19:31Z",
+            "open_issues": 80,
             "owner": "thedevs-network",
             "repo": "kutt",
-            "stars": 11063
+            "stars": 11062,
+            "topics": [
+              "link-shortener",
+              "shorten-urls",
+              "shortener",
+              "url-shortener",
+              "urlshortener"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1218,12 +1995,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Progressive Web App for local file sharing ",
+            "homepage": "https://snapdrop.net",
             "id": 48242990,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-10T10:35:43Z",
+            "open_issues": 286,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19703
+            "stars": 19703,
+            "topics": [
+              "pwa",
+              "snapdrop",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1234,12 +2020,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+            "homepage": "http://tesseract.projectnaptha.com/",
             "id": 37958358,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-17T04:19:12Z",
+            "open_issues": 48,
             "owner": "naptha",
             "repo": "tesseract.js",
-            "stars": 38676
+            "stars": 38676,
+            "topics": [
+              "deep-learning",
+              "javascript",
+              "ocr",
+              "tesseract",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1250,12 +2047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "科技爱好者周刊，每周五发布",
+            "homepage": null,
             "id": 152870372,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T15:22:35Z",
+            "open_issues": 8855,
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101479
+            "stars": 101499,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1266,12 +2068,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "盘点近年来的数据泄露、供应链污染事件",
+            "homepage": null,
             "id": 183978036,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-12-06T04:19:02Z",
+            "open_issues": 0,
             "owner": "ffffffff0x",
             "repo": "Dork-Admin",
-            "stars": 1916
+            "stars": 1916,
+            "topics": [
+              "data-breach",
+              "data-leakage",
+              "ffffffff0x",
+              "list",
+              "privacy",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1282,12 +2096,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share a terminal session over WebRTC",
+            "homepage": "https://maxmcd.github.io/webtty/",
             "id": 156137543,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-11T22:46:02Z",
+            "open_issues": 18,
             "owner": "maxmcd",
             "repo": "webtty",
-            "stars": 2813
+            "stars": 2813,
+            "topics": [
+              "golang",
+              "pion-webrtc",
+              "tty",
+              "tunnel",
+              "webrtc",
+              "webrtc-experiments",
+              "xtermjs"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1298,12 +2125,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:",
+            "homepage": "https://demo.pygy.co/pygmy",
             "id": 111005273,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-07T17:11:02Z",
+            "open_issues": 18,
             "owner": "amitt001",
             "repo": "pygmy",
-            "stars": 728
+            "stars": 728,
+            "topics": [
+              "analytics",
+              "django",
+              "flask",
+              "pygmy",
+              "python",
+              "python3",
+              "shortener",
+              "url-shortener",
+              "urlshortener"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1314,12 +2156,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。",
+            "homepage": "https://talkgo.org",
             "id": 125642885,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-21T09:42:31Z",
+            "open_issues": 13,
             "owner": "talkgo",
             "repo": "night",
-            "stars": 12290
+            "stars": 12290,
+            "topics": [
+              "bilibili",
+              "bilibili-live",
+              "daily",
+              "discuss",
+              "go",
+              "golang",
+              "gopher",
+              "learning",
+              "offline",
+              "online",
+              "reading",
+              "reading-go",
+              "share",
+              "shenzhen",
+              "slack",
+              "study",
+              "wechat",
+              "zoom",
+              "zoom-us"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1330,12 +2197,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cat(1) clone with wings.",
+            "homepage": null,
             "id": 130464961,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T14:39:20Z",
+            "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60287
+            "stars": 60289,
+            "topics": [
+              "cli",
+              "command-line",
+              "git",
+              "hacktoberfest",
+              "rust",
+              "syntax-highlighting",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -1352,12 +2233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个可以在线编辑页面，并将其上传到 IPFS 网络的服务。",
+            "homepage": null,
             "id": 309243596,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-11-10T13:06:24Z",
+            "open_issues": 0,
             "owner": "SaltyLeo",
             "repo": "Post-Pages-to-IPFS",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1368,12 +2254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IPFS 筆記和教學 (繁體中文)",
+            "homepage": null,
             "id": 99654573,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-21T06:55:20Z",
+            "open_issues": 1,
             "owner": "miaoski",
             "repo": "ipfs-tutorial",
-            "stars": 495
+            "stars": 495,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -1390,12 +2281,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just draw a bounding box and you can remove the object you want to remove.",
+            "homepage": null,
             "id": 194876821,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-09-27T14:16:03Z",
+            "open_issues": 34,
             "owner": "zllrunning",
             "repo": "video-object-removal",
-            "stars": 2710
+            "stars": 2710,
+            "topics": [
+              "image-inpainting",
+              "inpainting",
+              "object-removal",
+              "pytorch",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1406,12 +2308,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.",
+            "homepage": null,
             "id": 118181798,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T20:19:49Z",
+            "open_issues": 29,
             "owner": "ashnkumar",
             "repo": "sketch-code",
-            "stars": 5143
+            "stars": 5143,
+            "topics": [
+              "augmentation",
+              "deep-learning",
+              "html-generation",
+              "image-captioning",
+              "image-processing",
+              "keras",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1422,12 +2337,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.",
+            "homepage": null,
             "id": 86721514,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-12T19:48:53Z",
+            "open_issues": 59,
             "owner": "junyanz",
             "repo": "CycleGAN",
-            "stars": 12870
+            "stars": 12870,
+            "topics": [
+              "computer-graphics",
+              "computer-vision",
+              "cyclegan",
+              "deep-learning",
+              "gan",
+              "gans",
+              "generative-adversarial-network",
+              "image-generation",
+              "image-manipulation",
+              "pix2pix",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1438,12 +2370,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+            "homepage": null,
             "id": 155636246,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-19T17:17:35Z",
+            "open_issues": 1,
             "owner": "jantic",
             "repo": "DeOldify",
-            "stars": 18481
+            "stars": 18481,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1454,12 +2391,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":satellite: Simple and ready-to-use tutorials for TensorFlow ",
+            "homepage": null,
             "id": 151300862,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-11-28T11:04:08Z",
+            "open_issues": 2,
             "owner": "instillai",
             "repo": "TensorFlow-Course",
-            "stars": 16278
+            "stars": 16278,
+            "topics": [
+              "deep-learning",
+              "deep-learning-tutorial",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1470,12 +2417,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":unlock: Lip Reading - Cross Audio-Visual Recognition using 3D Architectures",
+            "homepage": null,
             "id": 94938983,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-07T13:58:59Z",
+            "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1905
+            "stars": 1905,
+            "topics": [
+              "3d-convolutional-network",
+              "computer-vision",
+              "deep-learning",
+              "speech-recognition",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1486,12 +2444,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款入门级的人脸、视频、文字检测以及识别的项目.",
+            "homepage": null,
             "id": 129874045,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-04-16T12:16:19Z",
+            "open_issues": 38,
             "owner": "vipstone",
             "repo": "faceai",
-            "stars": 11076
+            "stars": 11076,
+            "topics": [
+              "dlib",
+              "keras",
+              "opencv",
+              "tensorflow",
+              "tesseract-ocr"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1502,12 +2471,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self driving toy car using end-to-end learning",
+            "homepage": "https://experiencor.github.io/self_driving_toy_car.html",
             "id": 94009532,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-07-28T03:49:50Z",
+            "open_issues": 1,
             "owner": "experiencor",
             "repo": "self-driving-toy-car",
-            "stars": 521
+            "stars": 521,
+            "topics": [
+              "cnn-keras",
+              "convolutional-networks",
+              "deep-learning",
+              "machine-learning",
+              "raspberry-pi",
+              "self-driving-car",
+              "servo"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -1524,12 +2506,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edit Notes like in Notion.so. Full-Stack App using React/Express.",
+            "homepage": "https://notion-clone.kmuenster.com",
             "id": 293044019,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-10-15T13:27:47Z",
+            "open_issues": 9,
             "owner": "konstantinruge",
             "repo": "notion-clone",
-            "stars": 2954
+            "stars": 2954,
+            "topics": [
+              "contenteditable",
+              "expressjs",
+              "mongoose",
+              "nextjs",
+              "notion",
+              "notion-editor",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1540,12 +2535,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅ The Node.js best practices list (July 2026)",
+            "homepage": "https://twitter.com/nodepractices/",
             "id": 103633984,
             "language": "Dockerfile",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-15T11:41:04Z",
+            "open_issues": 137,
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105603
+            "stars": 105605,
+            "topics": [
+              "best-practices",
+              "es6",
+              "eslint",
+              "express",
+              "expressjs",
+              "javascript",
+              "jest",
+              "microservices",
+              "mocha",
+              "node-js",
+              "nodejs",
+              "nodejs-development",
+              "npm",
+              "rest",
+              "style-guide",
+              "styleguide",
+              "testing",
+              "types"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1556,12 +2575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python - 100天从新手到大师",
+            "homepage": null,
             "id": 123458551,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-07-29T15:18:29Z",
+            "open_issues": 714,
             "owner": "jackfrued",
             "repo": "Python-100-Days",
-            "stars": 185704
+            "stars": 185707,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1572,12 +2596,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充",
+            "homepage": null,
             "id": 131582572,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-02-17T12:02:24Z",
+            "open_issues": 10,
             "owner": "davideuler",
             "repo": "architecture.of.internet-product",
-            "stars": 20790
+            "stars": 20789,
+            "topics": [
+              "architecture",
+              "architecture-guidelines",
+              "architecture-of-internet-product",
+              "chatgpt",
+              "dall-e-3",
+              "gpt",
+              "gpt-4",
+              "internet-architecutre",
+              "llm",
+              "sora"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -1594,12 +2634,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pool game in JavaScript using my sphereCollision project",
+            "homepage": null,
             "id": 336650298,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-27T03:41:53Z",
+            "open_issues": 0,
             "owner": "victorqribeiro",
             "repo": "fingerPool",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1610,12 +2655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 273521357,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-10T04:53:08Z",
+            "open_issues": 2,
             "owner": "fat-garage",
             "repo": "how-to-get-rich-without-getting-lucky",
-            "stars": 947
+            "stars": 947,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1626,12 +2676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.",
+            "homepage": null,
             "id": 60656641,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-18T17:08:44Z",
+            "open_issues": 0,
             "owner": "github",
             "repo": "gov-takedowns",
-            "stars": 3182
+            "stars": 3182,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1642,12 +2697,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pluggable WebRTC softphone and communication platform.",
+            "homepage": null,
             "id": 87069784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-13T13:32:10Z",
+            "open_issues": 21,
             "owner": "vialer",
             "repo": "vialer-js",
-            "stars": 1007
+            "stars": 1007,
+            "topics": [
+              "chrome",
+              "electron",
+              "sip",
+              "softphone",
+              "vue",
+              "webextension",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1658,12 +2726,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google CTF",
+            "homepage": "https://g.co/ctf",
             "id": 131317137,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T13:11:18Z",
+            "open_issues": 1,
             "owner": "google",
             "repo": "google-ctf",
-            "stars": 5014
+            "stars": 5014,
+            "topics": [
+              "ctf",
+              "ctf-challenges",
+              "google",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         },
@@ -1674,12 +2752,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily compose images together without messing around with canvas",
+            "homepage": null,
             "id": 80096302,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-17T01:53:43Z",
+            "open_issues": 43,
             "owner": "lukechilds",
             "repo": "merge-images",
-            "stars": 1710
+            "stars": 1710,
+            "topics": [
+              "canvas",
+              "image-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
         }
@@ -1688,15 +2774,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:30:50.798Z",
+    "last_updated": "2026-08-29T05:00:53.824Z",
     "original_repository_info": {
       "archived": false,
+      "description": "好用的工具、资源收集库， 好记性不如破键盘",
+      "homepage": null,
       "id": 21263567,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2022-01-15T09:31:30Z",
+      "open_issues": 0,
       "owner": "YuniorZen",
       "repo": "hub",
-      "stars": 70
+      "stars": 70,
+      "topics": [
+        "awesome-list",
+        "blockchain",
+        "python",
+        "tool",
+        "wiki"
+      ]
     },
     "original_repository_sha": "3ddd6cccfe762d68885f863f51c0aabd164c0ad9",
     "enhanced_repository": "enhansome/enhansome-hub",
