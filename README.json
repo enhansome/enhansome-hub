@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T06:51:11Z",
-            "open_issues": 8916,
+            "open_issues": 8923,
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101977,
+            "stars": 102014,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -69,11 +69,11 @@
             "id": 74627617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T09:07:53Z",
-            "open_issues": 136,
+            "last_commit": "2026-09-05T04:10:04Z",
+            "open_issues": 140,
             "owner": "commaai",
             "repo": "openpilot",
-            "stars": 63571,
+            "stars": 63577,
             "topics": [
               "advanced-driver-assistance-systems",
               "driver-assistance-systems",
@@ -98,7 +98,7 @@
             "open_issues": 7,
             "owner": "spipm",
             "repo": "Depixelization_poc",
-            "stars": 4549,
+            "stars": 4550,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -165,7 +165,7 @@
             "open_issues": 318,
             "owner": "alievk",
             "repo": "avatarify-python",
-            "stars": 16520,
+            "stars": 16519,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -207,7 +207,7 @@
             "open_issues": 12,
             "owner": "dcalsky",
             "repo": "zzkia",
-            "stars": 1471,
+            "stars": 1472,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -249,7 +249,7 @@
             "open_issues": 119,
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21351,
+            "stars": 21354,
             "topics": [
               "anime",
               "anime-upscaling",
@@ -339,7 +339,7 @@
             "open_issues": 4,
             "owner": "aserg-ufmg",
             "repo": "JSCity",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "code-city",
               "data-visualization",
@@ -420,7 +420,7 @@
             "open_issues": 65,
             "owner": "wangshub",
             "repo": "Douyin-Bot",
-            "stars": 9636,
+            "stars": 9637,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -522,7 +522,7 @@
             "open_issues": 134,
             "owner": "ken107",
             "repo": "read-aloud",
-            "stars": 1738,
+            "stars": 1739,
             "topics": [
               "accessibility",
               "browser-addon",
@@ -584,7 +584,7 @@
             "open_issues": 40,
             "owner": "GorvGoyl",
             "repo": "Clone-Wars",
-            "stars": 36719,
+            "stars": 36720,
             "topics": [
               "airbnb",
               "clone",
@@ -611,11 +611,11 @@
             "id": 337010561,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T07:21:37Z",
+            "last_commit": "2026-09-05T07:18:25Z",
             "open_issues": 4,
             "owner": "niumoo",
             "repo": "bing-wallpaper",
-            "stars": 3703,
+            "stars": 3706,
             "topics": [
               "bing",
               "bing-image",
@@ -697,10 +697,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 640,
+            "open_issues": 641,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 545168,
+            "stars": 545356,
             "topics": [
               "awesome-list",
               "free",
@@ -754,10 +754,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-04T02:24:55Z",
-            "open_issues": 158,
+            "open_issues": 159,
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28232,
+            "stars": 28236,
             "topics": [
               "archivebox",
               "backups",
@@ -870,7 +870,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2024-01-19T23:28:10Z",
-            "open_issues": 2228,
+            "open_issues": 2229,
             "owner": "headllines",
             "repo": "hackernews-daily",
             "stars": 690,
@@ -919,7 +919,7 @@
             "open_issues": 530,
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29971,
+            "stars": 29976,
             "topics": [
               "cnn",
               "crnn",
@@ -986,7 +986,7 @@
             "open_issues": 794,
             "owner": "monicahq",
             "repo": "monica",
-            "stars": 25223,
+            "stars": 25230,
             "topics": [
               "crm",
               "family",
@@ -1070,10 +1070,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T06:51:11Z",
-            "open_issues": 8916,
+            "open_issues": 8923,
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101977,
+            "stars": 102014,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 42,
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21154,
+            "stars": 21153,
             "topics": [
               "canvas",
               "draw",
@@ -1151,7 +1151,7 @@
             "open_issues": 386,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56874,
+            "stars": 56876,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -1214,10 +1214,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T04:41:40Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "BYVoid",
             "repo": "OpenCC",
-            "stars": 9959,
+            "stars": 9958,
             "topics": [
               "chinese",
               "chinese-conversion",
@@ -1457,7 +1457,7 @@
             "open_issues": 227,
             "owner": "prevwong",
             "repo": "craft.js",
-            "stars": 8739,
+            "stars": 8738,
             "topics": [
               "draft-js",
               "drag-and-drop",
@@ -1533,7 +1533,7 @@
             "open_issues": 187,
             "owner": "jimp-dev",
             "repo": "jimp",
-            "stars": 14666,
+            "stars": 14665,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -1691,7 +1691,7 @@
             "open_issues": 5,
             "owner": "transitive-bullshit",
             "repo": "react-particle-effect-button",
-            "stars": 1506,
+            "stars": 1505,
             "topics": [
               "button",
               "canvas",
@@ -1718,7 +1718,7 @@
             "open_issues": 36,
             "owner": "rough-stuff",
             "repo": "wired-elements",
-            "stars": 10825,
+            "stars": 10823,
             "topics": [
               "lit-element",
               "lit-html",
@@ -1747,7 +1747,7 @@
             "open_issues": 403,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196613,
+            "stars": 196617,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1805,7 +1805,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30263,
+            "stars": 30261,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -1945,11 +1945,11 @@
             "id": 684382,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-04T13:41:23Z",
-            "open_issues": 724,
+            "last_commit": "2026-09-04T19:37:41Z",
+            "open_issues": 727,
             "owner": "bigbluebutton",
             "repo": "bigbluebutton",
-            "stars": 9207,
+            "stars": 9209,
             "topics": [
               "bigbluebutton",
               "collaboration",
@@ -1977,7 +1977,7 @@
             "open_issues": 80,
             "owner": "thedevs-network",
             "repo": "kutt",
-            "stars": 11072,
+            "stars": 11074,
             "topics": [
               "link-shortener",
               "shorten-urls",
@@ -2001,10 +2001,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2025-02-10T10:35:43Z",
-            "open_issues": 286,
+            "open_issues": 287,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19700,
+            "stars": 19703,
             "topics": [
               "pwa",
               "snapdrop",
@@ -2029,7 +2029,7 @@
             "open_issues": 49,
             "owner": "naptha",
             "repo": "tesseract.js",
-            "stars": 38685,
+            "stars": 38686,
             "topics": [
               "deep-learning",
               "javascript",
@@ -2053,10 +2053,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-04T06:51:11Z",
-            "open_issues": 8916,
+            "open_issues": 8923,
             "owner": "ruanyf",
             "repo": "weekly",
-            "stars": 101977,
+            "stars": 102014,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -2105,7 +2105,7 @@
             "open_issues": 18,
             "owner": "maxmcd",
             "repo": "webtty",
-            "stars": 2813,
+            "stars": 2812,
             "topics": [
               "golang",
               "pion-webrtc",
@@ -2165,7 +2165,7 @@
             "open_issues": 14,
             "owner": "talkgo",
             "repo": "night",
-            "stars": 12288,
+            "stars": 12289,
             "topics": [
               "bilibili",
               "bilibili-live",
@@ -2202,11 +2202,11 @@
             "id": 130464961,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T03:46:32Z",
-            "open_issues": 425,
+            "last_commit": "2026-09-04T19:10:30Z",
+            "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60372,
+            "stars": 60373,
             "topics": [
               "cli",
               "command-line",
@@ -2453,7 +2453,7 @@
             "open_issues": 38,
             "owner": "vipstone",
             "repo": "faceai",
-            "stars": 11079,
+            "stars": 11080,
             "topics": [
               "dlib",
               "keras",
@@ -2480,7 +2480,7 @@
             "open_issues": 1,
             "owner": "experiencor",
             "repo": "self-driving-toy-car",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "cnn-keras",
               "convolutional-networks",
@@ -2584,7 +2584,7 @@
             "open_issues": 715,
             "owner": "jackfrued",
             "repo": "Python-100-Days",
-            "stars": 185927,
+            "stars": 185957,
             "topics": []
           },
           "first_seen": "2026-08-28T21:30:50.798Z"
@@ -2605,7 +2605,7 @@
             "open_issues": 10,
             "owner": "davideuler",
             "repo": "architecture.of.internet-product",
-            "stars": 20791,
+            "stars": 20792,
             "topics": [
               "architecture",
               "architecture-guidelines",
@@ -2774,7 +2774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:05:04.707Z",
+    "last_updated": "2026-09-05T13:59:22.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "好用的工具、资源收集库， 好记性不如破键盘",
