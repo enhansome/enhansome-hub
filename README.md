@@ -1,6 +1,6 @@
 # Awesome 好用的工具/资源聚合仓库 with stars
 
-* 非常感谢阮一峰老师的[科技爱好者周刊](https://github.com/ruanyf/weekly) ⭐ 107,440 | 🐛 9,999 | 📅 2026-10-31提供的分享
+* 非常感谢阮一峰老师的[科技爱好者周刊](https://github.com/ruanyf/weekly) ⭐ 107,518 | 🐛 10,019 | 📅 2026-10-31提供的分享
 * 本仓库专门用来收集好用的工具/资源
 * 推荐好用的工具/资源，请[提交 Issue](https://github.com/yuniorzen/hub/issues)
 * 喜欢视频化信息的朋友，可关注视频号：敲代码的人，每周一期精分享！
@@ -77,7 +77,7 @@ Google Earth 提供的卫星照片时间线功能，可以查看同一个地点�
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021013105.jpg)\
 这个网站提供 1958 - 2016 每年美国最流行的五首歌曲，可以在线试听片段，了解美国大众音乐口味的变化。
 
-[openpilot](https://github.com/commaai/openpilot) ⭐ 64,046 | 🐛 134 | 🌐 Python | 📅 2026-11-02\
+[openpilot](https://github.com/commaai/openpilot) ⭐ 64,054 | 🐛 142 | 🌐 Python | 📅 2026-11-03\
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021012214.jpg)\
 一个开源的辅助驾驶系统，可以自动车道居中和自适应巡航控制，已经支持85种车型。
 
@@ -188,7 +188,7 @@ Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提�
 [No CS Degree](https://www.nocsdegree.com/)\
 该网站专门采访自学成才的程序员，每个采访对象都会问他们怎么学会编程，怎么找到工作。
 
-[Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,595 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17\
+[Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,601 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17\
 ![](https://www.wangbase.com/blogimg/asset/201908/bg2019081503.jpg)\
 实时提升卡通动画的分辨率，使其成为高清动画的工具。
 
@@ -220,7 +220,7 @@ Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提�
 
 [JSCity](https://github.com/aserg-ufmg/JSCity) ⭐ 1,402 | 🐛 4 | 🌐 JavaScript | 📅 2019-11-03\
 ![](https://www.wangbase.com/blogimg/asset/201811/bg2018113019.jpg)\
-该工具可以将 JS 项目的源代码显示为一座城市。还有一个类似的[项目](https://github.com/rodrigo-brito/gocity) ⭐ 1,811 | 🐛 10 | 🌐 Go | 📅 2025-12-05，专用于 Go 语言。
+该工具可以将 JS 项目的源代码显示为一座城市。还有一个类似的[项目](https://github.com/rodrigo-brito/gocity) ⭐ 1,810 | 🐛 10 | 🌐 Go | 📅 2025-12-05，专用于 Go 语言。
 
 [网页设计博物馆](https://www.webdesignmuseum.org/)\
 ![](https://www.wangbase.com/blogimg/asset/201809/bg2018092116.jpg)\
@@ -234,7 +234,7 @@ Chrome 浏览器插件。每过一段时候，就会弹出一只小鸭子，提�
 ![](https://www.wangbase.com/blogimg/asset/201809/bg2018091415.jpg)\
 Windows 2000 通过 WebAssembly，可以在浏览器里运行了。
 
-[chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) ⭐ 11,748 | 🐛 38 | 🌐 Python | 📅 2023-12-26\
+[chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) ⭐ 11,753 | 🐛 38 | 🌐 Python | 📅 2023-12-26\
 新华字典数据库和 API，收录 14032 条歇后语，16142 个汉字，264434 个词语，31648 个成语。
 
 [cartoonify](https://github.com/danmacnish/cartoonify) ⭐ 2,051 | 🐛 28 | 🌐 Python | 📅 2022-12-07\
@@ -256,7 +256,7 @@ Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变�
 [如何在抖音上找到漂亮小姐姐？](https://github.com/wangshub/Douyin-Bot) ⭐ 9,656 | 🐛 65 | 🌐 Python | 📅 2023-10-03\
 作者用 Python + ADB 做的 Bot。它会自动打开 APP 对视频截图，然后请求腾讯的 [人脸识别 API](http://ai.qq.com/)，当颜值大于门限值 `BEAUTY_THRESHOLD`时，点赞并关注，接着翻到下一页，重复进行该过程用来收集漂亮的小姐姐。
 
-[github-contributions-chart](https://github.com/sallar/github-contributions-chart) ⭐ 5,617 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-30（[Demo](https://github-contributions.now.sh/)）\
+[github-contributions-chart](https://github.com/sallar/github-contributions-chart) ⭐ 5,616 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-30（[Demo](https://github-contributions.now.sh/)）\
 GitHub 用户主页有一张图，每一天就是一个小格子。你只要在这一天提交了代码，这个格子就是绿色。但是，这张图只显示过去的一年，即365个格子。\
 这个工具可以生成从你加入 GitHub 那天起的所有格子。
 
@@ -269,7 +269,7 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 
 ## 效率 <a name="good"></a>
 
-[read-aloud](https://github.com/ken107/read-aloud) ⭐ 1,791 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-27
+[read-aloud](https://github.com/ken107/read-aloud) ⭐ 1,792 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-27
 开源的浏览器朗读插件，可以朗读整个网页或选定文本，支持40多种语言，包括中文。
 
 [Pitch Deck Hunt](https://www.pitchdeckhunt.com/)\
@@ -282,7 +282,7 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 ![](https://cdn.beekka.com/blogimg/asset/202104/bg2021041302.jpg)\
 这个网页收集各种从文本生成图表（text-to-diagram）的在线工具，一共有40多种。
 
-[Clone Wars](https://github.com/GorvGoyl/Clone-Wars) ⭐ 37,232 | 🐛 40 | 📅 2024-08-06\
+[Clone Wars](https://github.com/GorvGoyl/Clone-Wars) ⭐ 37,237 | 🐛 40 | 📅 2024-08-06\
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021031003.jpg)\
 该仓库收集热门网站的开源实现，比如 Airbnb、Amazon、Instagram、Netflix、Tiktok、Spotify 等，已经有70多个项目了。
 
@@ -294,7 +294,7 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021402.jpg)\
 这个网站收集了300万张动画片《辛普森一家》的截图，可以按照主题搜索。类似的网站还有 [Futurama 的图片搜索](https://morbotron.com/)。
 
-[Bing Wallpaper](https://github.com/niumoo/bing-wallpaper) ⭐ 3,803 | 🐛 3 | 🌐 Java | 📅 2026-11-02\
+[Bing Wallpaper](https://github.com/niumoo/bing-wallpaper) ⭐ 3,804 | 🐛 3 | 🌐 Java | 📅 2026-11-03\
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030307.jpg)\
 这个项目使用 GitHub Actions，收集 Bing 搜索引擎每天的壁纸，提供下载，
 
@@ -309,14 +309,14 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021106.jpg)\
 一个实验性浏览器，提供点对点访问。你可以在浏览器里面架设自己的网站，然后让其他人访问它。
 
-[Build your own x](https://github.com/danistefanovic/build-your-own-x) ⭐ 558,866 | 🐛 689 | 🌐 Markdown | 📅 2026-07-14\
+[Build your own x](https://github.com/danistefanovic/build-your-own-x) ⭐ 559,301 | 🐛 689 | 🌐 Markdown | 📅 2026-07-14\
 这个仓库专门收集各种教程，教你如何自己实现各种软件，比如 Web 服务器、BT 下载客户端、Git、数据库等等。
 
-[Remark42](https://github.com/umputun/remark42) ⭐ 5,644 | 🐛 82 | 🌐 Go | 📅 2026-11-02\
+[Remark42](https://github.com/umputun/remark42) ⭐ 5,645 | 🐛 82 | 🌐 Go | 📅 2026-11-02\
 ![](https://www.wangbase.com/blogimg/asset/202102/bg2021020710.jpg)\
 一个开源的、可以自己搭建的网站留言服务。
 
-[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,927 | 🐛 157 | 🌐 Python | 📅 2026-11-02\
+[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,937 | 🐛 158 | 🌐 Python | 📅 2026-11-03\
 ![](https://www.wangbase.com/blogimg/asset/202101/bg2021012002.jpg)\
 一个将网页存档的工具，可以将 HTML、CSS、JS、图片、媒体文件都保存下来，供日后查看。
 
@@ -354,7 +354,7 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 [talk](https://github.com/vasanthv/talk) ⚠️ Archived\
 一个开源的 Web 视频对话软件，把 URL 发给对方，就可以在浏览器进行视频对话，不需要下载和注册。
 
-[hackernews-daily](https://github.com/headllines/hackernews-daily) ⭐ 690 | 🐛 2,287 | 🌐 JavaScript | 📅 2024-01-19\
+[hackernews-daily](https://github.com/headllines/hackernews-daily) ⭐ 690 | 🐛 2,288 | 🌐 JavaScript | 📅 2024-01-19\
 ![](https://www.wangbase.com/blogimg/asset/202009/bg2020090207.jpg)\
 订阅 Hacker News 每日排名最高的10条新闻。具体方法是，通过 GitHub Actions 定时执行脚本，获取帖子，记录到了项目的 issue 里，用户通过 watch GitHub 仓库或者 RSS 订阅。
 
@@ -366,7 +366,7 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 ![](https://www.wangbase.com/blogimg/asset/202007/bg2020072104.jpg)\
 架设个人 Wiki 的 Node.js 应用。
 
-[EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,123 | 🐛 534 | 🌐 Python | 📅 2025-12-05\
+[EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 30,121 | 🐛 534 | 🌐 Python | 📅 2025-12-05\
 ![](https://www.wangbase.com/blogimg/asset/202007/bg2020070801.jpg)\
 一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字。
 
@@ -402,7 +402,7 @@ GitHub 用户主页有一张图，每一天就是一个小格子。你只要在�
 [Wifi 登录二维码](https://wifi.dev.bdw.to/)\
 一个生成 Wifi 登录二维码的在线工具，手机扫码就可以登录 Wifi。
 
-[monica](https://github.com/monicahq/monica) ⭐ 25,576 | 🐛 794 | 🌐 PHP | 📅 2026-10-28\
+[monica](https://github.com/monicahq/monica) ⭐ 25,670 | 🐛 794 | 🌐 PHP | 📅 2026-10-28\
 ![](https://www.wangbase.com/blogimg/asset/201912/bg2019122111.jpg)\
 一个个人的 CRM（客户关系管理）系统，可以自己架设服务，管理你的所有人际关系。
 
@@ -424,17 +424,17 @@ Chrome 浏览器插件，为选中的文字生成二维码，可以用来为网�
 ![](https://www.wangbase.com/blogimg/asset/201908/bg2019082403.jpg)\
 从 Google Play 将安卓 apk 安装包下载到桌面的工具。
 
-[awesome-qrcode](https://github.com/ruanyf/weekly/issues/795) ⭐ 107,440 | 🐛 9,999 | 📅 2026-10-31\
+[awesome-qrcode](https://github.com/ruanyf/weekly/issues/795) ⭐ 107,518 | 🐛 10,019 | 📅 2026-10-31\
 二维码生成工具，可以生成静态二维码、图像二维码和动画二维码。
 
-[Rough.js](https://github.com/pshihn/rough/) ⭐ 21,342 | 🐛 42 | 🌐 HTML | 📅 2024-07-28\
+[Rough.js](https://github.com/pshihn/rough/) ⭐ 21,344 | 🐛 42 | 🌐 HTML | 📅 2024-07-28\
 ![](https://www.wangbase.com/blogimg/asset/201908/bg2019081911.jpg)\
 生成手绘风格图片的 JS 库。
 
 [DarkDarkGo](https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo)\
 开源的暗网搜索引擎工具
 
-[TagUI-Python](https://github.com/tebelorg/TagUI-Python) ⭐ 5,504 | 🐛 4 | 🌐 Python | 📅 2026-07-25\
+[TagUI-Python](https://github.com/tebelorg/TagUI-Python) ⭐ 5,506 | 🐛 4 | 🌐 Python | 📅 2026-07-25\
 一个 Python 的自动化模块，可以自己编写脚本，完成浏览器自动化、键盘自动化、鼠标自动化等操作。
 
 [Serveo](https://serveo.net/)\
@@ -499,7 +499,7 @@ Markdown 文件直接部署成静态网站，不需要编译。
 ![](https://www.wangbase.com/blogimg/asset/201809/bg2018092122.jpg)\
 直接提供各种 Web 应用的 RSS 供订阅。代码开源，可以自己部署。
 
-[ReLaXed](https://github.com/RelaxedJS/ReLaXed) ⭐ 11,791 | 🐛 52 | 🌐 JavaScript | 📅 2025-09-07\
+[ReLaXed](https://github.com/RelaxedJS/ReLaXed) ⭐ 11,789 | 🐛 52 | 🌐 JavaScript | 📅 2025-09-07\
 一个将 HTML 文件转为 PDF 文件的命令行工具。
 
 ## 设计 <a name="design"></a>
@@ -540,7 +540,7 @@ Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画�
 
 ## 前端 <a name="frontend"></a>
 
-[elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,634 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26\
+[elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,633 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26\
 一个使得“回到顶部”的网页滚动，具有电梯效果的 JS 库。
 
 [设计工具收集](https://nodesign.dev/)\
@@ -594,28 +594,28 @@ gRPC-Web 是一个JavaScript客户端库，使 Web 应用程序能够直接与�
 ![](https://www.wangbase.com/blogimg/asset/201811/bg2018110921.jpg)\
 一个质量不错的科幻风格 React UI 组件库。
 
-[retejs](https://github.com/retejs/rete) ⭐ 12,300 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-25\
+[retejs](https://github.com/retejs/rete) ⭐ 12,299 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-25\
 ![](https://www.wangbase.com/blogimg/asset/201810/bg2018101919.jpg)\
 可视化编程的 JavaScript 框架。
 
 [puppeteer-recorder](https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda)\
 Chrome 插件，可以将用户在浏览器里面的操作，自动生成对应的 Puppeteer 脚本。
 
-[react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) ⭐ 1,504 | 🐛 5 | 🌐 JavaScript | 📅 2023-10-26\
+[react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) ⭐ 1,503 | 🐛 5 | 🌐 JavaScript | 📅 2023-10-26\
 ![](https://www.wangbase.com/blogimg/asset/201808/bg2018081720.jpg)\
 一个 React 组件，按钮点击后会像粒子状消解。
 
-[wired-elements](https://github.com/wiredjs/wired-elements) ⭐ 10,848 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07\
+[wired-elements](https://github.com/wiredjs/wired-elements) ⭐ 10,849 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07\
 ![](https://www.wangbase.com/blogimg/asset/201806/bg2018061427.jpg)\
 一个有手绘效果的网页组件库。但是，真正特别之处在于它的底层是 Web components，让我们看到了除了React/Vue之外，还有其他的路。
 
-[JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ⭐ 196,720 | 🐛 435 | 🌐 JavaScript | 📅 2026-07-26\
+[JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ⭐ 196,718 | 🐛 435 | 🌐 JavaScript | 📅 2026-07-26\
 这个仓库收集了30多种算法的 JavaScript 实现。
 
 [tlsh-js](https://github.com/idealista/tlsh-js) ⭐ 161 | 🐛 6 | 🌐 JavaScript | 📅 2021-05-09\
 一个生成字符串哈希的 JavaScript 库。它的特点是，字符串越相似，或者重复同样的模式，生成的哈希也越相似，可以用来计算两个字符串的相似程度。
 
-[css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN) ⭐ 30,300 | 🐛 1 | 📅 2026-09-23\
+[css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN) ⭐ 30,296 | 🐛 1 | 📅 2026-09-23\
 一个收集 CSS 使用技巧的库。
 
 [img-2](https://github.com/RevillWeb/img-2) ⭐ 1,880 | 🐛 7 | 🌐 HTML | 📅 2018-05-22\
@@ -638,7 +638,7 @@ Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可�
 [SimpleCTO  screenshot](https://github.com/simplecto/screenshots) ⚠️ Archived\
 一个在线生成网站截图的工具，用户提交 URL，就能下载网页截图，代码开源。
 
-[bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) ⭐ 9,263 | 🐛 810 | 🌐 TypeScript | 📅 2026-11-02\
+[bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) ⭐ 9,266 | 🐛 824 | 🌐 TypeScript | 📅 2026-11-03\
 ![](https://www.wangbase.com/blogimg/asset/202003/bg2020031804.jpg)\
 开源的远程教育软件，也可用作视频会议。
 
@@ -652,11 +652,11 @@ Nginx 的图形配置界面，点几下鼠标，自动生成配置文件，可�
 [snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15\
 一个开源的文件分享服务，使用 WebRTC 协议进行点对点传输。
 
-[tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,805 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17\
+[tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,808 | 🐛 59 | 🌐 JavaScript | 📅 2026-05-17\
 ![](https://www.wangbase.com/blogimg/asset/201906/bg2019062823.jpg)\
 一个可以完成 62 种语言 OCR （光学识别）的 JS 库。
 
-[如何使用 GitHub issue 作为博客后端？](https://github.com/ruanyf/weekly/issues/585) ⭐ 107,440 | 🐛 9,999 | 📅 2026-10-31\
+[如何使用 GitHub issue 作为博客后端？](https://github.com/ruanyf/weekly/issues/585) ⭐ 107,518 | 🐛 10,019 | 📅 2026-10-31\
 你可以使用 GitHub issue 写博客，然后依靠 API 通过 Circle-CI 构建出网站。
 
 [Dork-Admin](https://github.com/No-Github/Dork-Admin) ⚠️ Archived\
@@ -690,7 +690,7 @@ Python 语言写的短网址服务，前后端代码都包括。
 [Gitea](https://gitea.io/en-us/)\
 类似于 GitHub 和 GitLab 的开源项目，用于个人架设 Git 代码托管服务，使用 Go 语言实现。
 
-[bat](https://github.com/sharkdp/bat) ⭐ 61,029 | 🐛 571 | 🌐 Rust | 📅 2026-11-02\
+[bat](https://github.com/sharkdp/bat) ⭐ 61,041 | 🐛 567 | 🌐 Rust | 📅 2026-11-03\
 ![](https://camo.githubusercontent.com/67e44f4a68150325f74b3a46820b7473ff7b91a6/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67)\
 命令行的 cat 命令用来显示文件的内容，bat 命令完全跟 cat 一致，只有一个地方不一样，就是现在的内容会带有行号和代码高亮。
 
@@ -746,7 +746,7 @@ Python 语言写的短网址服务，前后端代码都包括。
 ![](https://www.wangbase.com/blogimg/asset/201811/bg2018110217.jpg)\
 一个使用深度学习，从嘴唇变化识别语言的库。
 
-[faceai](https://github.com/vipstone/faceai) ⭐ 11,094 | 🐛 38 | 🌐 Python | 📅 2020-04-16\
+[faceai](https://github.com/vipstone/faceai) ⭐ 11,095 | 🐛 38 | 🌐 Python | 📅 2020-04-16\
 一款入门级的人脸、视频、文字检测以及识别的项目。
 
 [机器学习50个最佳免费数据集](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)\
@@ -805,7 +805,7 @@ WebRTC 是浏览器点对点通信的 API，这个仓库给出了各种使用示
 [3Blue1Brown 视频的中文官方账号](https://space.bilibili.com/88461692/video)\
 3Blue1Brown 是著名的数学科普视频制作者。
 
-[node best practices](https://github.com/i0natan/nodebestpractices) ⭐ 105,713 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15\
+[node best practices](https://github.com/i0natan/nodebestpractices) ⭐ 105,715 | 🐛 141 | 🌐 Dockerfile | 📅 2026-06-15\
 一个收集  Node 最佳实践的仓库。
 
 [如何使用 Node 优化图片？](https://freshman.tech/image-optimisation/)\
@@ -817,7 +817,7 @@ WebRTC 是浏览器点对点通信的 API，这个仓库给出了各种使用示
 [WebAssembly 现状与实战](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)\
 WebAssembly 并不是一门编程语言，而是一份字节码标准，需要用高级编程语言编译出字节码放到 WebAssembly 虚拟机中才能运行， 浏览器厂商需要做的就是根据 WebAssembly 规范实现虚拟机。本文重点介绍如何使用 AssemblyScript 来编写 WebAssembly。
 
-[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) ⭐ 187,645 | 🐛 723 | 🌐 Jupyter Notebook | 📅 2026-07-29\
+[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) ⭐ 187,666 | 🐛 724 | 🌐 Jupyter Notebook | 📅 2026-07-29\
 一本针对初学者的 Python 教程。
 
 [前端人工智能？TensorFlow.js 学会游戏通关](https://zhuanlan.zhihu.com/p/35451395)\
@@ -859,7 +859,7 @@ GitHub 有一个官方仓库，收录政府的来函，要求取缔某些内容�
 
 [bruno simon](https://bruno-simon.com/)\
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019102604.jpg)\
-这是很久以来，我见过的最酷主页，整个页面都是 3D 的。[页面源码](https://github.com/brunosimon/folio-2019) ⭐ 4,753 | 🐛 40 | 🌐 JavaScript | 📅 2024-05-25是开源的。
+这是很久以来，我见过的最酷主页，整个页面都是 3D 的。[页面源码](https://github.com/brunosimon/folio-2019) ⭐ 4,752 | 🐛 40 | 🌐 JavaScript | 📅 2024-05-25是开源的。
 
 [法信](http://www.faxin.cn/keyword/index.aspx)\
 一个法律仓库，可以在线搜索国内的各种法律。
@@ -890,7 +890,7 @@ Chrome 浏览器的插件，在新标签页展示中国传统色的层叠波浪�
 [Vialer-js](https://github.com/vialer/vialer-js) ⭐ 1,007 | 🐛 21 | 🌐 JavaScript | 📅 2019-03-13\
 一个基于 WebRTC 技术的实时通讯平台，可以实现 P2P 的文字聊天、语音和视频对话。
 
-[Google CTF 的试题](https://github.com/google/google-ctf) ⭐ 5,052 | 🐛 1 | 🌐 Python | 📅 2026-10-22\
+[Google CTF 的试题](https://github.com/google/google-ctf) ⭐ 5,054 | 🐛 1 | 🌐 Python | 📅 2026-10-22\
 这个是试题库，收集了 Google 主办的黑客安全大赛 CTF 的题目。
 
 [docsmall](https://docsmall.com/image-compress)\
@@ -901,4 +901,4 @@ Chrome 浏览器的插件，在新标签页展示中国传统色的层叠波浪�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
